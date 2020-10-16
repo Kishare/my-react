@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import { NavBar } from './components/navbar';
+import NavBar from './components/navbar';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.scss';
