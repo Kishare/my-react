@@ -2,7 +2,7 @@
 
 ## Context
 
-This site uses OpendataParis API in Paris.
+This site uses OpenDataParis API in Paris.
 
 ## How to use it?
 ```
@@ -39,12 +39,10 @@ ReactJS Framework
 
 * event-form
   - contains the form and shows the specific events linked to the query the user has typed in the searchbar
-* events
-  - contains initial events
 * navbar
   - contains the navbar
 
 ## Features
 
 * Events
-  - Events are shown in function of what the user types in the search bar. There are also initial results before the user types anything.
+  - Events are shown in function of what the user types in the search bar.
