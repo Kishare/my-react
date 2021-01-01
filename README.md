@@ -13,20 +13,20 @@ enjoy !
 
 ## Structure
 
-── package.json
+├── package.json
 ├── package-lock.json
 ├── README.md
 ├── src
-│   ├── components
-│   │   ├── event-form
-│   │   │   └── index.js
-│   │   ├── events
-│   │   │   └── index.js
-│   │   └── navbar
-│   │       └── index.js
-│   ├── index.html
-│   ├── index.js
-│   └── index.scss
+│   ├── components
+│   │   ├── event-form
+│   │    │   └── index.js
+│   │   └── events
+│   │      └── index.js
+│   │   └── navbar
+│   │      └── index.js
+│   ├── index.html
+│   ├── index.js
+│   └── index.scss
 └── webpack.config.js
 
 ## Technologies
