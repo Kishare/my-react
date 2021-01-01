@@ -5,29 +5,29 @@
 This site uses OpendataParis API in Paris.
 
 ## How to use it?
-
+```
 git clone https://github.com/Kishare/my-react.git
 npm i
 npm start
 enjoy !
+```
 
 ## Structure
-
+```
 ├── package.json
 ├── package-lock.json
 ├── README.md
 ├── src
 │   ├── components
 │   │   ├── event-form
-│   │    │   └── index.js
-│   │   └── events
-│   │      └── index.js
+│   │   │   └── index.js
 │   │   └── navbar
 │   │      └── index.js
 │   ├── index.html
 │   ├── index.js
 │   └── index.scss
 └── webpack.config.js
+```
 
 ## Technologies
 
