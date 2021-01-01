@@ -9,6 +9,7 @@ This site uses OpenDataParis API in Paris.
 git clone https://github.com/Kishare/my-react.git
 npm i
 npm start
+type anything in the search bar and CLICK on "Rechercher"
 enjoy !
 ```
 
